@@ -1,6 +1,6 @@
 # aws-iot-greengrass-docker-lifecycle
 
-This repository was created to support the AWS IoT blog post Managing Docker container lifecycle with AWS IoT Greengrass (link), and hosts the following files:
+This repository was created to support the AWS IoT blog post Managing Docker container lifecycle with AWS IoT Greengrass (https://aws.amazon.com/blogs/iot/managing-docker-container-lifecycle-with-aws-iot-greengrass), and hosts the following files:
 
 * ### customlifecycle-1.0.0.json
 An AWS IoT Greengrass deployment sample recipe as presented in the related blog.
